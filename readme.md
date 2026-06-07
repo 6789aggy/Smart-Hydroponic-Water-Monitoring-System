@@ -40,12 +40,6 @@
 </div>
 
 ---
-<p align="center">
-  <img src="docs/PTs.jpg" alt="Poster đề tài" width="700"/>
-</p>
-<p align="center"><em>POSTER</em></p>
-
----
 
 # 📖 1. Giới thiệu
 
